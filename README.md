@@ -25,6 +25,6 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 - Creating an incident report
 - Ability to recognize a distributed denial of service attack
 
-## Project Document
+## Project Content
 
 <a href="https://github.com/ivanszeto11/Incident-Report-Assignment/blob/main/Incident%20report%20analysis.pdf">Incident report analysis</a>
